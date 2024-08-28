@@ -1,5 +1,3 @@
-# learning_reactjs_ignite_feed
-
 ## Fundamentos do React
 
 O React é uma biblioteca para construção de interfaces altamente interativas (Tudo que o usuário interage). React hoje é usado para construção de interfaces Web, Mobile, VR, TV, entre outros.

@@ -1,4 +1,3 @@
-// props: { author, content}
 import { Avatar } from "./Avatar";
 import { Comment } from "./Comment";
 import styles from "./Post.module.css";
@@ -21,12 +20,8 @@ export function Post(props) {
 
       <div className={styles.content}>
         <p>
-          <p>Fala galeraa 👋 </p>
-          <p>
-            Acabei de subir mais um projeto no meu portifa. É um projeto que fiz
-            no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare
-            🚀
-          </p>
+          <p></p>
+          <p></p>
           <p>
             <a href="jane.design/doctorcare">jane.design/doctorcare</a>
           </p>
